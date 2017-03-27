@@ -1,7 +1,7 @@
 # jnz
 some files used to test the JeeNode Zero
 
-working with [JeeLabs Forth Library](https://github.com/jeelabs/embello/tree/master/explore/1608-forth/flib)
+working with [JeeLabs Forth Library](https://github.com/jeelabs/embello/tree/master/explore/1608-forth)
 
 ## tmp36.fs
 
